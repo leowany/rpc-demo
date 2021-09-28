@@ -1,0 +1,2 @@
+kyro=com.leo.rpc.serialize.kyro.KryoSerializer
+protostuff=com.leo.rpc.serialize.protostuff.ProtostuffSerializer
